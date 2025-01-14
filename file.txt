@@ -1,1 +1,4 @@
 Git Rocks!
+I am practising how to create repo and push to remote
+It is fun learning!
+
